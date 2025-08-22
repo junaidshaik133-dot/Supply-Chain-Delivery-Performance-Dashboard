@@ -3,17 +3,18 @@
 
 ## 📌 Project Title 
 
+**Delivery Reliability & Customer Fulfillment Analytics Dashboard**
 An interactive Power BI dashboard designed to monitor supply chain service levels—focusing on **On-Time (OT%)**, **In-Full (IF%)**, and **On-Time In-Full (OTIF%)** delivery metrics. It highlights performance across customers, product categories, and cities to identify service gaps and improve fulfillment reliability.
 
 ---
 
-## 🎯 Short Description / Purpose
+## 🎯 **Short Description / Purpose**
 
 This dashboard tracks **daily and monthly delivery performance** for a supply chain company struggling with customer retention due to late and incomplete deliveries. By providing actionable insights into order fulfillment, it empowers management to **swiftly detect issues, improve reliability, and rebuild customer trust** before expanding into new cities.
 
 ---
 
-## 🛠️ Tech Stack
+## **🛠️ Tech Stack**
 
 The dashboard was built using the following tools and technologies:
 
@@ -25,7 +26,7 @@ The dashboard was built using the following tools and technologies:
 
 ---
 
-## 📂 Data Source
+## ** 📂 Data Source**
 
 Source: Internal order and fulfillment records from the company’s supply chain database.
 
